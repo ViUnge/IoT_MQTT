@@ -2,6 +2,13 @@
 With this project, you can control a servo motor using MQTT protocol and monitor temperature and humidity using a DHT11 sensor. 
 Simply follow the board setup and clone this repository or copy ```main.cpp```.
 
+## Table of Contents
+- [Board Setup](#board-setup)
+- [Components Used](#components-used)
+- [Circuit Diagram](#circuit-diagram)
+- [Configuration](#example-of-arduino_secretsh)
+- [Libraries Used](#libraries-used)
+
 ## Board Setup
 ![img.png](images/img.png)
 
